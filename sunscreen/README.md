@@ -1,4 +1,5 @@
-# ☀️ Sunscreen
+# Sunscreen
+<img width="2000" height="2000" alt="nvm" src="https://github.com/user-attachments/assets/d3099c7b-ee59-47b3-a96f-17f5b2c57504" />
 
 A beautiful terminal TUI Pomodoro-style screen-time limiter for Linux.
 
